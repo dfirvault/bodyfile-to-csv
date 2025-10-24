@@ -28,7 +28,7 @@ import socket  # For port checking
 # Utility Functions
 # -------------------------------------------------------------------
 
-    print("\nDeveloped by Jacob Wilson - Version 0.4")
+    print("\nDeveloped by Jacob Wilson)
     print("dfirvault@gmail.com\n")
 
 def convert_epoch_to_str(epoch):
