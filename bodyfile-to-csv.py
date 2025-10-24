@@ -28,8 +28,8 @@ import socket  # For port checking
 # Utility Functions
 # -------------------------------------------------------------------
 
-    print("\nDeveloped by Jacob Wilson)
-    print("dfirvault@gmail.com\n")
+print("\nDeveloped by Jacob Wilson")
+print("dfirvault@gmail.com\n")
 
 def convert_epoch_to_str(epoch):
     """Convert epoch to dd/mm/yyyy HH:MM:SS (UTC), or blank if 0/invalid."""
