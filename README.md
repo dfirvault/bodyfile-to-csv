@@ -7,6 +7,10 @@
 
 This Python tool converts bodyfiles (version 2/3) into CSV format and generates an interactive HTML-based forensic analysis dashboard. It supports multiple bodyfiles, provides advanced filtering, and includes visualizations for forensic investigations. The tool is designed for cross-platform use and offers a lightweight, responsive interface for analyzing filesystem metadata.
 
+<img width="542" height="397" alt="image" src="https://github.com/user-attachments/assets/af4633b6-b0bb-48c5-80aa-415c2fc087dc" />
+<img width="558" height="665" alt="image" src="https://github.com/user-attachments/assets/e2d8cd42-0cb4-411f-adb2-f7f7d094225a" />
+<img width="1032" height="610" alt="image" src="https://github.com/user-attachments/assets/f105f9f2-d3fa-4478-abda-7cf3afa8375b" />
+
 ### Key Features
 - **Multi-Bodyfile Support**: Process multiple bodyfiles and combine them into a single database.
 - **MACB Timeline**: Visualize Modified, Accessed, Changed, and Created timestamps.
